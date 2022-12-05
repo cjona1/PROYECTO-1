@@ -60,7 +60,8 @@ Bateria: Es la que alimenta a nuestro circuito con el voltaje que se requiere ya
 
 Mediante el diagrama se procede armar el circuito de luz nocturna automatica:
 
-![image](https://user-images.githubusercontent.com/116817673/204499088-1ba34f3c-65f4-4b8f-ab8d-0dfc9ead7c95.png
+![image](https://user-images.githubusercontent.com/116817673/205768557-0c749965-98f6-43aa-b0a1-737e79db7aa3.png)
+
 
 Simulacion:
 
