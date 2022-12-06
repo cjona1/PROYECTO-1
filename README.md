@@ -69,8 +69,7 @@ Mediante el diagrama se procede armar el circuito de luz nocturna automatica:
 
 Simulacion:
 
-![image](https://user-images.githubusercontent.com/116817673/205080722-e51b2e00-5b25-452c-829a-426e39d69193.png)
-
+![image](https://user-images.githubusercontent.com/116817673/205949653-0dcf4f86-e4b3-42f0-be74-2b85ade5e83a.png)
 
 Donde se puede notar lo siguiente: 
 
