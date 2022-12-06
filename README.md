@@ -41,6 +41,10 @@ OBJETIVOS ESPECÍFICOS
 Adquisicion de los materiales.
 
 ![image](https://user-images.githubusercontent.com/116817673/204497315-f53688ff-1ce3-43a6-8373-21ea9be4f87d.png)
+    
+
+                                            Explicacion de los elementos del circuito.      
+  
 
 Fotocelda: Un excitador o fotorresistencia es un componente electrónico cuya resistencia se modifica, con el aumento de intensidad de luz incidente.
 
@@ -99,7 +103,17 @@ Mediante el circuito pude concluir que:
 
 * El proyecto me ha servido para afianzarme más con los elementos que estaremos en contacto por nuestra carrera, lo que nos permitirá saber cómo usar dichos dispositivos para poder desarrollarnos de mejor manera en el ámbito profesional y educativo.
 
-# 7. BIBLIOGRAFIA
+# 7. RECOMENDACIONES
+
+* Se recomienda primero hacer la simulacion para evitar perdidas economicas, asi como saber como cbien los nombres y terminales del transistor 2N3904, así como del potenciómetro para conectar el circuito de forma correcta y tambien las polaridades de los leds al momento de armarlo fisicamente.
+
+•	Usar  las resistencias con el respectivo valor que indica el diagrama, ya que si usamos resistencias fuera de los valores indicados, el circuito no funcionara de forma correcta.
+
+•	Si el circuito no funciona de forma correcta, revisar si todos los componentes están bien conectados, además verificar si los componentes tienen los valores y características indicados en el diagrama.
+
+•	Usar cables en buen estado para las conexiones de los componentes.
+
+# 8. BIBLIOGRAFIA
 
 * Naylamp Mechatronics - Perú. (s/f). Naylamp Mechatronics - Perú. Recuperado el 29 de noviembre de 2022, de https://naylampmechatronics.com/
 
